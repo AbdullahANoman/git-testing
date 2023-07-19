@@ -1,0 +1,1 @@
+const name = 'I am Mohammad'
